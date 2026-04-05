@@ -1,7 +1,7 @@
 ---
 title: "星际拓荒"
 date: 2026-04-05T12:00:00+08:00
-image: OIP.webp
+image: R.jpg
 categories: ["游戏", "感悟"]
 tags: ["游戏", "星际拓荒", "叙事"]
 ---
