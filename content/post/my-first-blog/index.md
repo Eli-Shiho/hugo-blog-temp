@@ -1,5 +1,5 @@
 ---
-title: 我的第一篇文章
+title: 一点本框架下的md格式注意
 date: 2026-04-05T12:00:00+08:00
 image: cover.jpg   # 封面图放在同目录下
 categories: [教程]
@@ -20,13 +20,13 @@ tags: [markdown, hugo]
 Front Matter 格式（必须）
 每篇博客的 .md 文件开头必须包含如下格式的元数据：
 
----
+三条-
 title: "文章标题"
 date: 2026-04-05T12:00:00+08:00   # 日期时间（ISO 8601）
 categories: ["分类1", "分类2"]    # 分类（数组）
 tags: ["标签1", "标签2"]         # 标签（数组，可选）
 image: "cover.jpg"                # 封面图（可选，放在同目录下）
----
+三条-
 
 ### 链接和图片
 访问 [Hugo 官网](https://gohugo.io) 了解更多。
