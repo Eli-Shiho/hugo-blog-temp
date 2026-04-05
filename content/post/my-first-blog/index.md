@@ -29,10 +29,6 @@ tags: [markdown, hugo]
 
 ## 第三部分：使用 Shortcodes
 
-{{< alert type="tip" >}}
-这是一个使用 shortcode 创建的提示框。
-{{< /alert >}}
-
 {{< figure src="/img/demo.jpg" caption="带标题的图片" >}}
 
 ## 代码示例
