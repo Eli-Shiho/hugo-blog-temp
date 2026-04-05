@@ -3,7 +3,8 @@
     "allow": [
       "Bash(hugo version:*)",
       "Bash(hugo --cleanDestinationDir)",
-      "Bash(ls ./themes/hugo-theme-stack/i18n/en*)"
+      "Bash(ls ./themes/hugo-theme-stack/i18n/en*)",
+      "Bash(hugo)"
     ]
   }
 }

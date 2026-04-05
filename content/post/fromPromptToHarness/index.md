@@ -1,3 +1,10 @@
+---
+title: "从 Prompt 到 Harness"
+date: 2026-04-05T12:00:00+08:00
+categories: ["技术"]
+tags: ["AI", "Claude", "开发工具"]
+---
+
 # 从 Prompt 到 Harness
 
 从 deepseek，豆包网页端，app 端，到 windsurf IDE 内置 ai agent（此时我还没有发现后者有多大的优势），到 vscode 内置 agent（可以试用 Claude Haiku），再到 Claude code 插件，我说 ai cli，或者说 agent 真好用，claude 牛逼。学到了 api 的调用方法，token 数量的大小概念（一百万十分钟就用完哦！），顺便了解了 api 调用具有最大长度（几百 k），输入和输出是分开的，输入时还分有没有命中缓存区。所谓缓存区就是你之前问过类似的问题，那么 ai 就能直接照抄之前的回答，不需要重新思考。deepseek 真便宜，deepseek 牛逼。然后相同的模型不同的 cli 真的会有区别，而且还不小，比如 trae 和 Claude code 和 openclaw，都用同一个模型的 api，但是表现出来的效果不一样，这归功于 harness enginnering（怎么拼的？）。而我的认知还停留在 prompt engineering（孩子们我去查了词典了，上面那个错的就不管了）。
